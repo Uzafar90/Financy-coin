@@ -1,6 +1,6 @@
 ![](/src/Assets/Logo.png)
 
-# Kolachi Kingdom
+# Financy Coin
 
 A cryptocurrency coin website that fetches real market data using API. Includes market cap price, current price, increase and decrease percentages, and graphs that indicate price fluctuation.
 
